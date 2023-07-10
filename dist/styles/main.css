@@ -1,0 +1,79 @@
+.header {
+  color: #fff;
+  background-image: url("../background.4618d3e1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  position: relative;
+}
+
+.header .container {
+  justify-content: center;
+  display: grid;
+  position: relative;
+}
+
+.header:before {
+  content: "";
+  opacity: .7;
+  background-color: #000;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.header__image {
+  justify-self: center;
+  height: 200px;
+  margin-bottom: 20px;
+}
+
+.header__title {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.header__infos {
+  color: #000;
+  background-color: #fff;
+  border-radius: 8px;
+  gap: 30px;
+  padding: 12px 32px;
+  display: flex;
+}
+
+.header__infos__button {
+  text-transform: uppercase;
+  cursor: pointer;
+  color: #dae9f5;
+  background-color: #1c689b;
+  border: none;
+  border-radius: 8px;
+  align-self: center;
+  padding: 12px 8px;
+  text-decoration: none;
+  display: block;
+}
+
+.header__infos__button:hover {
+  content: "manda zap";
+  background-color: #3db84d;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: Roboto, sans-serif;
+}
+
+.container {
+  width: 100%;
+  max-width: 1024px;
+  margin: 0 auto;
+}
+
+/*# sourceMappingURL=main.css.map */
