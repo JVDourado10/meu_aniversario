@@ -1,3 +1,7 @@
+#header__date {
+  color: rgb(221, 221, 34);
+}
+
 .header {
   background-image: url(../images/background.jpg);
   background-repeat: no-repeat;
@@ -58,6 +62,24 @@
       &:hover {
         content: "manda zap";
         background-color: #3db84d;
+      }
+    }
+  }
+
+  @media (max-width: 700px) {
+    &__infos {
+      flex-direction: column;
+      gap: 8px;
+      max-width: 400px;
+      margin: 0 auto;
+
+      &__item {
+        border-bottom: 1px solid #ccc;
+        padding-bottom: 4px;
+      }
+
+      &__button {
+        margin-top: 8px;
       }
     }
   }

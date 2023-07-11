@@ -1,3 +1,7 @@
+#header__date {
+  color: #dd2;
+}
+
 .header {
   color: #fff;
   background-image: url("../background.4618d3e1.jpg");
@@ -61,6 +65,74 @@
 .header__infos__button:hover {
   content: "manda zap";
   background-color: #3db84d;
+}
+
+@media (width <= 700px) {
+  .header__infos {
+    flex-direction: column;
+    gap: 8px;
+    max-width: 400px;
+    margin: 0 auto;
+  }
+
+  .header__infos__item {
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 4px;
+  }
+
+  .header__infos__button {
+    margin-top: 8px;
+  }
+}
+
+.infos__info .container {
+  color: #fff;
+  align-items: center;
+  gap: 20px;
+  padding: 80px 0;
+  display: flex;
+}
+
+.infos__info .container iframe {
+  width: 100%;
+  height: 300px;
+  display: block;
+}
+
+.infos__info--back1 {
+  background-image: linear-gradient(#1b6ca7, #442bdb);
+}
+
+.infos__info--back2 {
+  background-image: linear-gradient(#442bdb, #89223b);
+}
+
+.infos__info--back3 {
+  background-image: linear-gradient(#89223b, #9c791d);
+}
+
+.infos__info--back4 {
+  background-image: linear-gradient(#9c791d, #89223b);
+}
+
+.infos__info--image-left .container {
+  flex-direction: row-reverse;
+}
+
+@media (width <= 700px) {
+  .infos .container {
+    max-width: 80%;
+    padding: 20px 0;
+    display: block;
+  }
+
+  .infos__info__content__title {
+    margin-bottom: 8px;
+  }
+
+  .infos__info__content__text {
+    margin-bottom: 12px;
+  }
 }
 
 * {

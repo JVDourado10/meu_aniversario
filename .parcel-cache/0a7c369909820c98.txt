@@ -1,4 +1,4 @@
-6048
+6052
 84C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\abortcontroller-polyfill133334869695498310 1
 92C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\cosmiconfig\dist\readFile.js.map133334869701103336 0
 91C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\caniuse-lite\data\regions\VI.js133334869722645747 0
@@ -28,11 +28,11 @@
 77C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\readdirp\index.js133334871240229658 0
 80C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\weak-lru-cache\tests133334869691568818 1
 91C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\csso\cjs\replace\Percentage.cjs133334869700983651 0
-51C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\dist133334914720931242 1
+51C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\dist133335597909685519 1
 97C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\css-tree\lib\tokenizer\TokenStream.js133334869715554696 0
 97C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\@swc\helpers\src\_to_property_key.mjs133334869718526752 0
 92C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\semver\internal\parse-options.js133334869700903862 0
-57C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\.gitignore133334870568699125 0
+57C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\.gitignore133334916221923485 0
 85C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\svgo\plugins\prefixIds.js133334869701671820 0
 116C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\@swc\helpers\lib\_class_static_private_field_spec_set.js133334869713260833 0
 87C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\supports-color\package.json133334869689235052 0
@@ -54,10 +54,9 @@
 50C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\src133334884182422086 1
 96C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\caniuse-lite\data\features\run-in.js133334869720710915 0
 98C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\ordered-binary\.nyc_output\processinfo133334869693952442 1
-79C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\css-tree\cjs\syntax133334869705970316 1
 87C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\mdn-data\css\selectors.json133334869697672497 0
 79C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\@parcel\packager-js133334869697622631 1
-61C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\src\index.html133334910529581527 0
+61C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\src\index.html133335597817681615 0
 85C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\htmlnano\docs\sidebars.js133334869700784183 0
 58C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\src\scripts133334870362749260 1
 87C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\svgo\plugins\removeAttrs.js133334869702050793 0
@@ -66,7 +65,7 @@
 98C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\lmdb\dependencies\lz4\lib\liblz4.pc.in133334869711794753 0
 70C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\css-select133334869706229628 1
 98C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\source-map\lib\source-map-generator.js133334869694850045 0
-57C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\src\styles133334892410878215 1
+57C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\src\styles133335586994051031 1
 87C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\cosmiconfig\dist\loaders.js133334869693942472 0
 80C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\electron-to-chromium133334869695727698 1
 75C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\.bin\semver.ps1133334869724949587 0
@@ -75,7 +74,7 @@
 103C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\@parcel\core\test\fixtures\invalid-distpath133334869714377844 1
 111C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\posthtml\node_modules\posthtml-parser\dist\index.js133334869688726412 0
 111C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\@swc\helpers\src\_tagged_template_literal_loose.mjs133334869718456938 0
-67C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\src\styles\main.scss133334900559888794 0
+67C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\src\styles\main.scss133335587115619978 0
 79C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\parcel\package.json133334869692945134 0
 105C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\css-select\node_modules\domutils\lib\index.js133334869692955107 0
 135C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\@parcel\source-map\parcel_sourcemap_wasm\dist-node\parcel_sourcemap_wasm.js133334869694730361 0
@@ -101,11 +100,28 @@
 93C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\electron-to-chromium\CHANGELOG.md133334869695508284 0
 97C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\caniuse-lite\data\features\rellist.js133334869720591237 0
 112C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\@babel\highlight\node_modules\color-convert\index.js133334869689544230 0
-70C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\src\styles\_header.scss133334911532430229 0
+70C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\src\styles\_header.scss133335585112691130 0
 89C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\@swc\helpers\esm\_to_array.js133334869715235549 0
 71C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\js-yaml\bin133334869695358687 1
 77C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\sass\sass.dart.js133334871241795969 0
-66C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\src\scripts\main.js133334914720452529 0
+88C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\svgo\plugins\minifyStyles.js133334869700425141 0
+122C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\@parcel\package-manager\test\fixtures\has-foo\node_modules\foo133334869702220342 1
+88C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\htmlnano\lib\presets\safe.js133334869700554794 0
+107C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\@swc\helpers\esm\_object_destructuring_empty.js133334869714647120 0
+68C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\msgpackr133334869704753570 1
+66C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\dotenv133334869691349412 1
+106C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\css-select\node_modules\domutils\lib\legacy.js133334869693902579 0
+98C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\csso\node_modules\css-tree\lib\data.js133334869713540081 0
+91C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\caniuse-lite\data\regions\DK.js133334869716083287 0
+90C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\nth-check\lib\compile.d.ts.map133334869693962417 0
+69C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\commander133334869693573458 1
+86C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\source-map-js\package.json133334869695388611 0
+94C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\caniuse-lite\data\features\cors.js133334869711675068 0
+144C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\pseudo-selectors\filters.d.ts133334869700923808 0
+92C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\@parcel\packager-js\lib\utils.js133334869697044179 0
+84C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\domutils\lib\legacy.d.ts133334869697732337 0
+69C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\src\styles\_infos.scss133335599947710939 0
+66C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\src\scripts\main.js133335586007003671 0
 107C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\@swc\helpers\_\_class_private_field_destructure133334869716262809 1
 115C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\csso\node_modules\css-tree\cjs\syntax\config\parser.cjs133334869709411120 0
 85C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\import-fresh\package.json133334869688367373 0
@@ -135,11 +151,6 @@
 131C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeEditorsNSData.js133334869703586686 0
 72C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\src\images\background.jpg133334885851226425 0
 116C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\csso\node_modules\css-tree\cjs\syntax\node\Dimension.cjs133334869701980983 0
-83C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\domutils\lib\helpers.js133334869688526947 0
-80C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\globals\package.json133334869689624018 0
-67C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\globals133334869691708451 1
-111C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\css-select\node_modules\entities\lib\esm\index.d.ts133334869706080022 0
-82C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\parent-module\index.js133334869687559531 0
 66C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\@babel133334869666339499 1
 89C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\electron-to-chromium\index.js133334869691838098 0
 66C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\@lezer133334869666110108 1
@@ -258,17 +269,6 @@
 110C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\chacha8.c133334869700036183 0
 78C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\csso\cjs\usage.cjs133334869702120610 0
 73C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\color-convert133334869691897937 1
-88C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\svgo\plugins\minifyStyles.js133334869700425141 0
-122C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\@parcel\package-manager\test\fixtures\has-foo\node_modules\foo133334869702220342 1
-88C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\htmlnano\lib\presets\safe.js133334869700554794 0
-107C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\@swc\helpers\esm\_object_destructuring_empty.js133334869714647120 0
-68C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\msgpackr133334869704753570 1
-66C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\dotenv133334869691349412 1
-106C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\css-select\node_modules\domutils\lib\legacy.js133334869693902579 0
-98C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\csso\node_modules\css-tree\lib\data.js133334869713540081 0
-91C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\caniuse-lite\data\regions\DK.js133334869716083287 0
-90C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\nth-check\lib\compile.d.ts.map133334869693962417 0
-69C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\commander133334869693573458 1
 76C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\tslib\tslib.html133334869687569504 0
 71C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\cosmiconfig133334869701562101 1
 93C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\@parcel\core\lib\public\Target.js133334869713320671 0
@@ -327,6 +327,11 @@
 70C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\fill-range133334869688945825 1
 71C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\glob-parent133334871241476814 1
 85C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\semver\functions\major.js133334869698609994 0
+83C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\domutils\lib\helpers.js133334869688526947 0
+80C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\globals\package.json133334869689624018 0
+67C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\globals133334869691708451 1
+111C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\css-select\node_modules\entities\lib\esm\index.d.ts133334869706080022 0
+82C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\parent-module\index.js133334869687559531 0
 68C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\has-flag133334869689763644 1
 124C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\css-select\node_modules\dom-serializer\lib\foreignNames.d.ts.map133334869693892602 0
 68C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\htmlnano133334869706778159 1
@@ -360,7 +365,7 @@
 99C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\caniuse-lite\data\features\dom-range.js133334869716262809 0
 67C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\is-glob133334869688995692 1
 67C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\is-json133334869691638630 1
-75C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\dist\background.4618d3e1.jpg133334911534254775 0
+75C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\dist\background.4618d3e1.jpg133335597188373792 0
 76C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\globals\index.js133334869687619371 0
 94C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\lines-and-columns\build\index.d.ts133334869690102732 0
 128C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\cleanupAttrs.js133334869694102051 0
@@ -497,8 +502,6 @@
 88C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\msgpackr-extract\binding.gyp133334869688546893 0
 95C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\caniuse-lite\data\features\proxy.js133334869720421688 0
 70C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\picocolors133334869691748334 1
-96C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\css-tree\lib\lexer\generic-urange.js133334869714078646 0
-102C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\lightningcss\node\browserslistToTargets.js133334869693204441 0
 69C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\picomatch133334869694102051 1
 105C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\caniuse-lite\data\features\rest-parameters.js133334869720651074 0
 97C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\caniuse-lite\data\features\details.js133334869715993526 0
@@ -1303,7 +1306,6 @@
 85C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\resolve-from\package.json133334869686931208 0
 82C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\@parcel\codeframe\test133334869699677139 1
 81C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\source-map-js\LICENSE133334869686678472 0
-86C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\source-map-js\package.json133334869695388611 0
 90C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\css-tree\cjs\syntax\create.cjs133334869699976339 0
 91C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\caniuse-lite\data\regions\MS.js133334869719554007 0
 89C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\source-map\dist\source-map.js133334869698699755 0
@@ -1836,7 +1838,7 @@
 84C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\normalize-path\README.md133334871241387056 0
 81C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\node-releases\LICENSE133334869686951159 0
 83C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\node-releases\README.md133334869691658577 0
-85C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\dist\Modulo22Exercicio.59712999.js.map133334911534314614 0
+85C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\dist\Modulo22Exercicio.59712999.js.map133335597392716600 0
 97C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\csso\lib\replace\AttributeSelector.js133334869704713679 0
 90C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\chokidar\lib\nodefs-handler.js133334871241756070 0
 88C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\node-releases\data\processed133334869687778946 1
@@ -2277,6 +2279,8 @@
 82C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\lightningcss\README.md133334869695318788 0
 89C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\lightningcss\node\ast.js.flow133334869690182519 0
 108C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\@swc\core-win32-x64-msvc\swc.win32-x64-msvc.node133334869717200303 0
+96C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\css-tree\lib\lexer\generic-urange.js133334869714078646 0
+102C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\lightningcss\node\browserslistToTargets.js133334869693204441 0
 86C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\lightningcss\node\flags.js133334869694072123 0
 85C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\@parcel\core\src\utils.js133334869713829309 0
 88C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\lightningcss\node\index.d.ts133334869697193781 0
@@ -2735,10 +2739,6 @@
 87C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\domutils\lib\index.d.ts.map133334869695029568 0
 107C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\csso\node_modules\css-tree\lib\syntax\create.js133334869713081311 0
 81C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\domutils\lib\index.js133334869689584116 0
-94C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\caniuse-lite\data\features\cors.js133334869711675068 0
-144C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\pseudo-selectors\filters.d.ts133334869700923808 0
-92C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\@parcel\packager-js\lib\utils.js133334869697044179 0
-84C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\domutils\lib\legacy.d.ts133334869697732337 0
 148C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\pseudo-selectors\filters.d.ts.map133334869696705084 0
 88C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\domutils\lib\legacy.d.ts.map133334869695318788 0
 102C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\caniuse-lite\data\features\inline-block.js133334869717988193 0
@@ -3320,6 +3320,7 @@
 82C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\css-tree\cjs\index.cjs133334869705591328 0
 125C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\index.d.ts133334869701292818 0
 78C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\css-tree\cjs\lexer133334869711954322 1
+79C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\css-tree\cjs\syntax133334869705970316 1
 84C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\css-tree\cjs\version.cjs133334869712253522 0
 107C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\@swc\helpers\_\_async_to_generator\package.json133334869716013475 0
 117C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\lib\types.ts133334869708942378 0
@@ -4063,7 +4064,7 @@
 97C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\@swc\helpers\src\_super_prop_base.mjs133334869718436994 0
 99C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\caniuse-lite\data\features\autofocus.js133334869702988293 0
 100C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\caniuse-lite\data\features\es6-module.js133334869716581952 0
-71C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\dist\styles\main.css.map133334911534264741 0
+71C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\dist\styles\main.css.map133335599948478897 0
 93C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\caniuse-lite\data\features\es5.js133334869716542058 0
 74C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\@parcel\plugin133334869689464438 1
 113C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\caniuse-lite\data\features\background-position-x-y.js133334869704603967 0
@@ -4145,7 +4146,7 @@
 107C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\caniuse-lite\data\features\css-initial-value.js133334869714088615 0
 108C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\caniuse-lite\data\features\css-letter-spacing.js133334869714148456 0
 107C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\caniuse-lite\data\features\css-marker-pseudo.js133334869714218271 0
-62C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\dist\index.html133334911534145068 0
+62C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\dist\index.html133335597909545899 0
 96C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\@lmdb\lmdb-win32-x64\node.abi93.node133334869695807483 0
 108C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\caniuse-lite\data\features\css-math-functions.js133334869714298061 0
 111C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\caniuse-lite\data\features\css-media-interaction.js133334869714318001 0
@@ -4301,7 +4302,7 @@
 127C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\caniuse-lite\data\features\mdn-css-unicode-bidi-isolate-override.js133334869719125152 0
 115C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\caniuse-lite\data\features\mdn-text-decoration-color.js133334869719155076 0
 115C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\caniuse-lite\data\features\mdn-text-decoration-style.js133334869719194966 0
-67C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\dist\scripts\main.js133334914720931242 0
+67C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\dist\scripts\main.js133335597909525952 0
 114C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\caniuse-lite\data\features\mediacapture-fromelement.js133334869719224889 0
 97C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\@swc\helpers\cjs\_to_property_key.cjs133334869707207014 0
 95C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\@lmdb\lmdb-win32-x64\node.napi.node133334869697632605 0
@@ -4458,8 +4459,6 @@
 94C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\caniuse-lite\data\features\xhr2.js133334869723284036 0
 94C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\caniuse-lite\data\features\zstd.js133334869723373795 0
 82C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\callsites\package.json133334869686921237 0
-85C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\@parcel\markdown-ansi\lib133334869687579477 1
-82C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\@parcel\compressor-raw133334869689514312 1
 79C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\callsites\readme.md133334869689953132 0
 81C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\browserslist\error.js133334869689235052 0
 81C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\browserslist\index.js133334869690401945 0
@@ -4845,6 +4844,8 @@
 118C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\@parcel\optimizer-svgo\node_modules\mdn-data\l10n\css.json133334869694141938 0
 109C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\@swc\core\bindings\binding_core_wasm\package.json133334869694082094 0
 73C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\@parcel\cache133334869695488338 1
+85C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\@parcel\markdown-ansi\lib133334869687579477 1
+82C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\@parcel\compressor-raw133334869689514312 1
 82C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\@parcel\config-default133334869690082784 1
 85C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\@parcel\namer-default\src133334869688656599 1
 78C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\@parcel\diagnostic133334869691877987 1
@@ -5282,6 +5283,7 @@
 126C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\collapseGroups.js133334869696186473 0
 125C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\convertColors.js133334869696894577 0
 134C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\convertEllipseToCircle.js133334869697094046 0
+83C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\dist\background.4618d3e1.jpg.3492.14133335596178905626 0
 127C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\convertPathData.js133334869697383268 0
 131C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\convertStyleToAttrs.js133334869697921831 0
 110C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\@parcel\diagnostic\test\JSONCodeHighlights.test.js133334869690102732 0
@@ -5305,6 +5307,7 @@
 131C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeScriptElement.js133334869704883222 0
 130C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeStyleElement.js133334869705102637 0
 123C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeTitle.js133334869705192396 0
+75C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\dist\scripts\main.js.17772.n133335575132951069 0
 137C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeUnknownsAndDefaults.js133334869705242265 0
 125C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeViewBox.js133334869705651173 0
 123C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeXMLNS.js133334869705720985 0
@@ -6039,11 +6042,12 @@
 73C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\.bin\svgo.cmd133334869724630436 0
 73C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\.bin\svgo.ps1133334869724630436 0
 91C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\node_modules\.bin\update-browserslist-db.cmd133334869725039345 0
-76C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\dist\aniversario.c03e3f0c.jpg133334911533825917 0
-69C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\dist\index.f75de5e1.js133334914720891348 0
-73C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\dist\index.f75de5e1.js.map133334914720921275 0
-81C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\dist\Modulo22Exercicio.59712999.js133334911534184956 0
-59C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\dist\scripts133334914720971143 1
-71C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\dist\scripts\main.js.map133334914720961171 0
-58C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\dist\styles133334911534334559 1
-67C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\dist\styles\main.css133334911534145068 0
+76C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\dist\aniversario.c03e3f0c.jpg133335597188054643 0
+69C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\dist\index.f75de5e1.js133335597909296563 0
+73C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\dist\index.f75de5e1.js.map133335597909675548 0
+81C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\dist\Modulo22Exercicio.59712999.js133335597392676704 0
+89C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\dist\Modulo22Exercicio.59712999.js.17772.m133335575132941096 0
+59C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\dist\scripts133335597909665578 1
+71C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\dist\scripts\main.js.map133335597909655609 0
+58C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\dist\styles133335599948478897 1
+67C:\Users\joao_\OneDrive\EBAC\Modulo22Exercicio\dist\styles\main.css133335599948449206 0
